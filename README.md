@@ -6,6 +6,8 @@
                                                                                                                                             
 > *"An engineer raised by Aristotle, humbled by Feynman, and fascinated by Turing."*
 
+---
+
 I build intelligent systems at the intersection of artificial intelligence,
 software engineering, and first principles.
 
