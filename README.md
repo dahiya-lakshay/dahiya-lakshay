@@ -19,8 +19,8 @@
 I build intelligent systems at the intersection of artificial intelligence,
 software engineering, and first principles.
 
-I'm interested not only in using technology, but in understanding it—taking
-ideas apart, rebuilding them from scratch, and turning research into systems
+I'm interested not only in using technology, but in understanding it, by taking
+ideas apart, and then rebuilding them from scratch, and turning research into systems
 people can actually use.
 
 My philosophy is that engineering is art, and art has taste; hence, I try to build things that are useful but also tasteful.
