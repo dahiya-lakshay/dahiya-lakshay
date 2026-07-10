@@ -1,89 +1,177 @@
-# Lakshay Dahiya
+```text
+╭──────────────────────────────────────────────────────────────────────────────╮
+│                                                                              │
+│                              LAKSHAY DAHIYA                                  │
+│                                                                              │
+│                 Building intelligent systems from first principles.           │
+│                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+```
 
-> *An engineer raised by Aristotle, humbled by Feynman, and fascinated by Turing.*
+> *"An engineer raised by Aristotle, humbled by Feynman, and fascinated by Turing."*
 
-I build intelligent systems at the intersection of artificial intelligence, software engineering, and first principles.
+I build intelligent systems at the intersection of artificial intelligence,
+software engineering, and first principles.
 
-I'm interested in using technology in understanding and taking ideas apart, rebuilding them from scratch, and turning research into systems people can actually use.
-
----
-
-## What I'm Building
-
-- **Lynceus** — Real-time financial fraud detection platform
-- **InferX** — High-performance LLM inference engine
-- **NexusURL** — Distributed URL management platform
-
----
-
-## What I'm Learning
-
-Right now I'm diving into
-
-- Transformer architectures
-- Distributed systems
-- Computer vision
-- Linux internals
-- The mathematics behind modern AI
+I'm interested not only in using technology, but in understanding it—taking
+ideas apart, rebuilding them from scratch, and turning research into systems
+people can actually use.
 
 ---
 
-## Philosophy
+## $ whoami
 
-I believe good engineering is equal parts curiosity, discipline, and taste.
-
-I care about understanding why things work before optimizing how they're built.
-
-Every project here is an attempt to learn in public, document the journey, and leave something useful behind.
-
----
-
-## This Year's Mission
-
-- Build software that survives contact with reality
-- Read research papers instead of summaries
-- Become exceptionally good at algorithms and systems
-- Contribute to open source
-- Publish engineering notes consistently
+```text
+Name      : Lakshay Dahiya
+Role      : AI Systems Engineer
+Mission   : Turn research into useful software.
+Location  : India 🇮🇳
+Status    : Building...
+```
 
 ---
 
-## Reading
+## $ status
 
-Current Paper
+```text
+Building
+
+├── Lynceus
+│   └── Real-time Financial Fraud Detection Platform
+
+├── InferX
+│   └── High-performance LLM Inference Engine
+
+└── NexusURL
+    └── Distributed URL Management Platform
+```
+
+---
+
+## $ exploring
+
+```text
+Artificial Intelligence
+
+├── Transformer Architectures
+├── Computer Vision
+└── Machine Learning
+
+Systems
+
+├── Distributed Systems
+├── Linux Internals
+└── Backend Engineering
+
+Mathematics
+
+└── Mathematics Behind Modern AI
+```
+
+---
+
+## $ principles
+
+```text
+• Build more than I consume.
+
+• Read source code.
+
+• Understand before optimizing.
+
+• Prefer depth over novelty.
+
+• Seek elegance before cleverness.
+
+• Leave things better than I found them.
+```
+
+---
+
+## $ roadmap
+
+```text
+Core Computer Science
+
+Algorithms             ██████████
+
+Operating Systems      ███░░░░░░░
+
+Networking             ██░░░░░░░░
+
+Databases              ████░░░░░░
+
+Distributed Systems    ███░░░░░░░
+
+Artificial Intelligence
+
+Machine Learning       ██████░░░░
+
+Deep Learning          █████░░░░░
+
+Transformers           ███░░░░░░░
+
+Computer Vision        ███░░░░░░░
+
+Research
+
+Paper Implementations  ██░░░░░░░░
+
+Open Source            ██░░░░░░░░
+```
+
+---
+
+## $ mission_2026
+
+```text
+✓ Build software that survives contact with reality.
+
+✓ Read research papers instead of summaries.
+
+✓ Become exceptional at algorithms and systems.
+
+✓ Contribute to meaningful open source.
+
+✓ Publish engineering notes consistently.
+```
+
+---
+
+## $ currently
+
+```text
+Reading
 
 → Attention Is All You Need
 
-Current Book
+Book
 
 → Designing Data-Intensive Applications
 
 Current Obsession
 
-→ Building AI systems from first principles.
+→ Turning research into production-grade software.
+```
 
 ---
 
-## Principles
+## $ links
 
-Build more than I consume.
+```text
+GitHub      → github.com/dahiya-lakshay
 
-Read source code.
+LinkedIn    → linkedin.com/in/dahiya-lakshay
 
-Prefer depth over novelty.
+X           → @dxhiyxlabs
 
-Seek elegance before cleverness.
+LeetCode    → dahiya-lakshay
 
-Leave things better than I found them.
+Codeforces  → dahiya-lakshay
+```
 
 ---
 
-## Find Me
-
-GitHub is my workshop.
-
-X is my engineering notebook.
-
-LinkedIn is where I document milestones.
-
-The best way to know what I'm doing is to look at what I'm building.
+> *Research asks if it can be done.*
+>
+> *Engineering asks if it can survive reality.*
