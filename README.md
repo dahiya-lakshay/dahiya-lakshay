@@ -1,13 +1,16 @@
-```text
-╭──────────────────────────────────────────────────────────────────────────────╮
-│                                                                              │
-│                              LAKSHAY DAHIYA                                  │
-│                                                                              │
-│                 Building intelligent systems from first principles.           │
-│                                                                              │
-╰──────────────────────────────────────────────────────────────────────────────╯
-```
-
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+        <img width="622" height="725" alt="image" src="https://github.com/user-attachments/assets/38732482-adc4-4800-8195-2af8966a80a3" />
+<img width="622" height="725" alt="image" src="https://github.com/user-attachments/assets/51d18b3b-7d63-4f2d-bc11-44d04fb96ddd" />
+                                                                                                                                                
 > *"An engineer raised by Aristotle, humbled by Feynman, and fascinated by Turing."*
 
 I build intelligent systems at the intersection of artificial intelligence,
