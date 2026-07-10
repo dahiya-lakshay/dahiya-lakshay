@@ -1,8 +1,9 @@
 # Hi, I am Lakshay Dahiya.   
 
-```text
-<img width="622" height="725" alt="image" src="https://github.com/user-attachments/assets/51d18b3b-7d63-4f2d-bc11-44d04fb96ddd" />
-```                                                                                                                                                
+
+<img width="462" height="532" alt="image" src="https://github.com/user-attachments/assets/7d850479-2c44-483f-a6d3-811bddc88d8a" />
+
+                                                                                                                                            
 > *"An engineer raised by Aristotle, humbled by Feynman, and fascinated by Turing."*
 
 I build intelligent systems at the intersection of artificial intelligence,
@@ -166,7 +167,3 @@ Codeforces  → dahiya-lakshay
 ```
 
 ---
-
-> *Research asks if it can be done.*
->
-> *Engineering asks if it can survive reality.*
