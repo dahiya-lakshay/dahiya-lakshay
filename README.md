@@ -1,7 +1,12 @@
-# Hi, I am Lakshay Dahiya.   
+# Hi, I am Lakshay Dahiya. 
+█      ███  █   █  ████ █   █  ███  █   █    ████   ███  █   █ ███ █   █  ███  
+█     █   █ █  █  █     █   █ █   █  █ █     █   █ █   █ █   █  █   █ █  █   █ 
+█     █████ ███    ███  █████ █████   █      █   █ █████ █████  █    █   █████ 
+█     █   █ █  █      █ █   █ █   █   █      █   █ █   █ █   █  █    █   █   █ 
+█████ █   █ █   █ ████  █   █ █   █   █      ████  █   █ █   █ ███   █   █   █ 
 
 
-<img width="462" height="532" alt="image" src="https://github.com/user-attachments/assets/7d850479-2c44-483f-a6d3-811bddc88d8a" />
+<img width="462" height="532" alt="image" src="https://github.com/user-attachments/assets/7d850479-2c44-483f-a6d3-811bddc88d8a" /> 
 
                                                                                                                                             
 > *"I'm in the business of making things, things that fascinate the mind and satisfy the soul."*
