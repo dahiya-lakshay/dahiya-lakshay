@@ -1,10 +1,19 @@
-# Hi, I am Lakshay Dahiya. 
+<h1 align="center"> Hi, I am Lakshay Dahiya</h1>
 
-<img width="462" height="532" alt="image" src="https://github.com/user-attachments/assets/7d850479-2c44-483f-a6d3-811bddc88d8a" /> 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/7d850479-2c44-483f-a6d3-811bddc88d8a"
+    width="420"
+    alt="Lakshay ASCII Portrait"
+  />
+</p>
 
-                                                                                                                                            
-> *"I'm in the business of making things, things that fascinate the mind and satisfy the soul."*
-
+<p align="center">
+  <i>
+    "I'm in the business of making things, things that fascinate the mind and satisfy the soul."
+  </i>
+</p>
+                                                                                                                                          
 ---
 
 I build intelligent systems at the intersection of artificial intelligence,
