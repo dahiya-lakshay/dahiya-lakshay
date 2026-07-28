@@ -1,4 +1,4 @@
-<h1 align="center"> hola, jo soy Lakshay Dahiya </h1>
+<h1 align="center"> hola, jo soy Lakshay </h1>
 
 <p align="center">
   <img
