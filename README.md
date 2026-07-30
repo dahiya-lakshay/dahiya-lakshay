@@ -16,6 +16,8 @@
 
 ---
 
+Bear with me, sit with me for this play scene, I do this not for the coins and praises from the king but to let the child inside me dance to the tunes of the universe.
+
 ## III.
 
 The build finishes at 3:12 a.m. Green. Passing. Correct.
