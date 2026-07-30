@@ -15,8 +15,7 @@
 </p>
 
 ---
-To be or not to be that is the question.
-And below is my attempt to introduce myself to you.
+## Who is Lakshay Dahiya?
 
 ## III.
 
