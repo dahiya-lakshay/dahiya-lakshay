@@ -15,8 +15,8 @@
 </p>
 
 ---
-
-Bear with me, sit with me for this play scene, I do this not for the coins and praises from the king but to let the child inside me dance to the tunes of the universe.
+To be or not to be that is the question.
+And below is my attempt to introduce myself to you.
 
 ## III.
 
